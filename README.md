@@ -1,4 +1,4 @@
------------------------------------- Arduino GPS Clock and Location Display ------------------------------------
+# Arduino GPS Clock and Location Display
 
 This project reads time, latitude, and longitude data from a GPS module and displays them on an LCD screen using an Arduino.
 
